@@ -12,14 +12,14 @@ Key Features:
 ✅ Order success page with confirmation
 Pages & Components:
 
---Home - Hero, featured products, services, testimonials
---Flowers - Product catalog with filters and sorting
---Flower Details - Individual product pages with add to cart
---Cart - Shopping cart management
---Checkout - 4-step order process
---Contact - Contact form and business info
---Order Success - Confirmation page
---Shopping Cart Features:
+-Home - Hero, featured products, services, testimonials
+-Flowers - Product catalog with filters and sorting
+-Flower Details - Individual product pages with add to cart
+-Cart - Shopping cart management
+-Checkout - 4-step order process
+-Contact - Contact form and business info
+-Order Success - Confirmation page
+-Shopping Cart Features:
 
 Cart icon with item count in navbar
 Dropdown preview when clicking cart icon
